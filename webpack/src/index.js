@@ -9,7 +9,6 @@ function test() {
 
     const icon = new Image()
     icon.src = Icon
-
     element.appendChild(icon)
 
     return element
